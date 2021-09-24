@@ -1,0 +1,19 @@
+{
+    "name": "aigletter/math",
+    "description": "Library for math",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yurii Orlyk",
+            "email": "aigletter@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "aigletter\\Math\\": "src"
+        }
+    }
+}
